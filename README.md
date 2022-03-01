@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Wsafe0
 - 👀 安全运营
-- 🌱 小白 
-- 💞️ 
-- 📫 
+- 🌱 小白一枚 
+
+
 
 <!---
 Wsafe0/Wsafe0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
